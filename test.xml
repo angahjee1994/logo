@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="CHN"><display-name>CHN</display-name></channel>
-
-
-<programme start="20240722053000 +0000" stop="30240722063000 +0000" channel="CHN"><title>Bola Cinta</title><desc>Haziq mendapat tawaran daripada sebuah kelab bola sepak. Fiza pula meraikan kejayaannya mendapat tawaran belajar di luar negara. Lakonan Shahz Jaszle, Memey Suhaiza, Ainul Aishah dan ramai lagi.</desc></programme>
+<channel id="CHN"><display-name>CHN</display-name>
+</channel>
+<programme start="20240722053000 +0000" stop="30240722063000 +0000" channel="CHN"><title>Bola Cinta</title><desc>Haziq mendapat tawaran daripada sebuah kelab bola sepak. Fiza pula meraikan kejayaannya mendapat tawaran belajar di luar negara. Lakonan Shahz Jaszle, Memey Suhaiza, Ainul Aishah dan ramai lagi.</desc>
+</programme>
 </tv>
