@@ -1,1 +1,22 @@
-{"code":200,"msg":"success","time":"1748410428","data":{"cloud_game_switch":2,"guide_info_img":"https:\/\/zlyer-cdn-comps-en.bigeyes.com\/ux-landscape\/game-image\/98ff\/25\/f1\/98ff25f11b1dda4ce8ae65aad9205a7f.png","guide_storage_img":"https:\/\/zlyer-cdn-comps-en.bigeyes.com\/ux-landscape\/game-image\/3c09\/62\/36\/3c0962366c42f6ced401402396c68b37.png"}}
+{code: 200, msg: "success", time: "1748410428", data: {cloud_game_switch: 2,…}}
+code
+: 
+200
+data
+: 
+{cloud_game_switch: 2,…}
+cloud_game_switch
+: 
+2
+guide_info_img
+: 
+"https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/98ff/25/f1/98ff25f11b1dda4ce8ae65aad9205a7f.png"
+guide_storage_img
+: 
+"https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/3c09/62/36/3c0962366c42f6ced401402396c68b37.png"
+msg
+: 
+"success"
+time
+: 
+"1748410428"
